@@ -1,10 +1,13 @@
 # kg_Akshay-SG_2020
 Repository For Kargo Intern Test
 
-Answer to kargo Application Question 
-- Akshay S Gehlot 
+CONTENTS 
+1. main.py file (Solution )
+2. kg_Akshay file (Solution with test cases) 
 
-Solved in Python 3 
+Language = Python 3 
+
+Question 
 "
 Determine whether a one-to-one character mapping exists from one string, s1, to another string,
 s2.
@@ -14,4 +17,7 @@ Given s1 = foo and s2 = bar, print "false" since the character ‘o’ cannot ma
 But given s1 = bar and s2 = foo, print "true" since each character in "bar" can be mapped to a
 character in "foo".
 
+
+Akshay S Gehlot
+March 17,2020
 "

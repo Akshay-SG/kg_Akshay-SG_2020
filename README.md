@@ -2,7 +2,9 @@
 Repository For Kargo Intern Test
 
 Answer to kargo Application Question 
+- Akshay S Gehlot 
 
+Solved in Python 3 
 "
 Determine whether a one-to-one character mapping exists from one string, s1, to another string,
 s2.

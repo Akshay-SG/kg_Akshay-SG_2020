@@ -25,5 +25,5 @@ def one_to_one(s1,s2):
 
 print(one_to_one("abc","bcd"))
 print(one_to_one("foo","bcd"))
-print(one_to_one("213","foo"))
+print(one_to_one("bar","foo"))
 
